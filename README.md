@@ -1,1 +1,9 @@
-# Voltage_dip_impact_on_system_reliability
+# Impact of Voltage Dip on System Reliability in Yangon Distribution Network
+
+This study was conducted as the author’s Bachelor’s thesis.
+
+This thesis consists of two main parts of analysis. The first part focuses on fault analysis, including the calculation of current and voltage levels during fault conditions. When a fault occurs on lateral lines or feeder sections, protection devices isolate the faulted section to safeguard the rest of the system. However, voltage dips resulting from faults in other areas can still affect sensitive loads, potentially causing temporary disconnections or malfunctions if the voltage drops below acceptable levels. Therefore, assessing the impact of voltage dips is crucial from both the perspective of load sensitivity and overall system reliability. In this study, voltage dip levels at each load point during various fault scenarios are evaluated, and their impact on system reliability is analyzed. The distribution network of Bahan Township, Yangon, Myanmar is used as the test system for this analysis.
+
+In the second part of this thesis, system reliability evaluation is conducted, incorporating findings from the first part of the analysis. Using the obtained data, new reliability indices are calculated. These indices allow a comparison between the current system reliability and the reliability when voltage dip impacts are taken into account, presented through tables, charts, and graphs.
+
+In conclusion, this thesis highlights the significance of voltage dips and their adverse effects on system reliability. By accounting for these impacts, system operators can better forecast system conditions and make more informed operational decisions.
